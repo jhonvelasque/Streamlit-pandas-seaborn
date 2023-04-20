@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd 
 import matplotlib.pyplot as plt
 import seaborn as sns
-st.title('Hello World')
+st.title('SOLO TERECUERDO QUE ELLA NO TE AMA')
 st.markdown('---')
 st.markdown('## Que es y para que sirve')
 st.sidebar.markdown('Introduccion a los usos de streamlit')
